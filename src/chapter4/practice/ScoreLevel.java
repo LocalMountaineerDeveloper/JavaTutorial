@@ -1,3 +1,7 @@
+/*
+* 划分成绩等级：将一、二年级学生的成绩划分等级
+* */
+
 package chapter4.practice;
 
 import java.util.Scanner;
