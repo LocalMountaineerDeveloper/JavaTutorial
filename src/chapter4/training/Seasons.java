@@ -2,7 +2,7 @@
 * 判断月份对应的季节
 * */
 
-package chapter4.practice;
+package chapter4.training;
 
 import java.util.Scanner;
 
@@ -18,6 +18,7 @@ public class Seasons
             System.out.println("警告：您在非法操作……");
         }else
         {
+
             switch(month)
             {
                 case 3:
