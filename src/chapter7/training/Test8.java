@@ -16,3 +16,4 @@ public class Test8
             president.handleAffairs(); // president对象调用handleAffairs()方法
     }
 }
+
