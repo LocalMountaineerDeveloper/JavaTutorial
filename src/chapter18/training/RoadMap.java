@@ -54,7 +54,7 @@ public class RoadMap extends JFrame
          * 创建标签labelNorth置于面板panelNorth的中间，并为标签添加图标
          */
         JLabel labelNorthImage=new JLabel("");
-        labelNorthImage.setIcon(new ImageIcon("src/chapter18/assets/photo/1.png"));
+        labelNorthImage.setIcon(new ImageIcon("src/chapter18/assets/photo/poker1.png"));
         panelNorth.add(labelNorthImage,BorderLayout.CENTER);
         /**
          * 创建标签labelNImage置于面板panelNorth的南侧，设置标签labelNImage的text值与text在标签中的位置
