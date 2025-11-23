@@ -12,7 +12,6 @@ import java.awt.event.ActionListener;
 
 public class Calculator extends JFrame
 {
-    private static final long serialVersionUID=-9075562467166618473L;
     private JPanel contentPane;
     private JTextField display;
     private ActionListener dotInsert=new dotInsertAction();
